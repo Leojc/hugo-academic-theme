@@ -27,7 +27,7 @@ item:
     organization_url: https://www.datacamp.com
     title: Object-Oriented Programming in R
     url: ""
-widget_id: recent-posts
+widget_id: accomplishments
 headless: true
 weight: 50
 title: Accomplish&shy;ments
