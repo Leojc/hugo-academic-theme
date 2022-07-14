@@ -1,5 +1,6 @@
 ---
 role: Bachelor in Physics, Graduate Student in Artificial Intelligence
+avatar_filename: null
 bio: My research interests include Artificial Intelligence, Computer Vision,
   Multi-modal analysis, OCR, etc.
 interests:
