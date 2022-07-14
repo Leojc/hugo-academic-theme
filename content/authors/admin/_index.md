@@ -15,10 +15,17 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=-nCLQeQAAAAJ
+    label: Google Scholar
   - icon: github
-    icon_pack: far
+    icon_pack: fab
     link: https://github.com/leojc
-    label: fa-github
+    label: Github
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Junchao-Liao
+    icon_pack: ai
+    icon: researchgate
+    label: ResearchGate
 organizations:
   - name: Huazhong University of Science and Technology
     url: https://hust.edu.cn
