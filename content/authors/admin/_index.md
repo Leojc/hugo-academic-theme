@@ -47,5 +47,4 @@ highlight_name: true
 title: Junchao Liao
 email: liaojunchao@outlook.com
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests include Artificial Intelligence, Computer Vision, Multi-modal analysis, OCR, etc.
