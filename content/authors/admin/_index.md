@@ -1,5 +1,5 @@
 ---
-role: ""
+role: Bachelar in Physics, Graduate Student in Artificial Intelligence
 bio: My research interests include Artificial Intelligence, Computer Vision,
   Multi-modal analysis, OCR, etc.
 interests:
