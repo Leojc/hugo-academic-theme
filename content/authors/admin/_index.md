@@ -7,7 +7,7 @@ interests:
   - Computer Vision
   - Multi-modal analysis
   - OCR
-  - etc.
+  - ...
 social:
   - icon: envelope
     icon_pack: fas
@@ -18,7 +18,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/leojc
-organizations: []
+organizations:
+  - name: Huazhong University of Science and Technology
+    url: https://hust.edu.cn
 education:
   courses:
     - course: Master in Artificial Intelligence
