@@ -29,6 +29,8 @@ social:
 organizations:
   - name: Huazhong University of Science and Technology
     url: https://hust.edu.cn
+  - name: Huawei Technologies Co., Ltd.
+    url: https://www.huawei.com
 education:
   courses:
     - course: Master in Artificial Intelligence
