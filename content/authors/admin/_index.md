@@ -13,8 +13,8 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=-nCLQeQAAAAJ
+    icon_pack: fab
+    link: https://scholar.google.com/citations?user=-nCLQeQAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/leojc
