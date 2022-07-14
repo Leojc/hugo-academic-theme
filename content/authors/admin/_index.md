@@ -1,5 +1,5 @@
 ---
-role: Bachelar in Physics, Graduate Student in Artificial Intelligence
+role: Bachelor in Physics, Graduate Student in Artificial Intelligence
 bio: My research interests include Artificial Intelligence, Computer Vision,
   Multi-modal analysis, OCR, etc.
 interests:
@@ -21,19 +21,16 @@ social:
 organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master in Artificial Intelligence
+      institution: Huazhong University of Science and Technology
+      year: 2023
+    - course: Bachelor in Physics
+      institution: Tsinghua University
+      year: 2020
 superuser: true
 highlight_name: true
 title: Junchao Liao
-email: ""
+email: liaojunchao@outlook.com
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
