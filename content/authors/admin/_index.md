@@ -31,6 +31,8 @@ organizations:
     url: https://hust.edu.cn
   - name: Huawei Technologies Co., Ltd.
     url: https://www.huawei.com
+  - name: Tsinghua University
+    url: https://www.tsinghua.edu.cn/
 education:
   courses:
     - course: Master in Artificial Intelligence
