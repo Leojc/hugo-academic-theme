@@ -4,6 +4,7 @@ widget_id: papers
 weight: 25
 title: Recent Publications
 subtitle: ""
+active: true
 content:
   filters:
     folders:
