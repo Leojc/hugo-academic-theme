@@ -36,10 +36,10 @@ organizations:
     url: https://www.tsinghua.edu.cn/
 education:
   courses:
-    - course: Master in Artificial Intelligence
+    - course: Master of Information and Communication Engineering
       institution: Huazhong University of Science and Technology
-      year: 2023
-    - course: Bachelor in Physics
+      year: ""
+    - course: Bachelor of Science in Physics
       institution: Tsinghua University
       year: 2020
 superuser: true
