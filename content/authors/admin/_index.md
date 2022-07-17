@@ -1,5 +1,6 @@
 ---
-role: Bachelor in Physics, Graduate Student in Artificial Intelligence
+role: Bachelor of Science in Physics, Graduate Student of Information and
+  Communication Engineering
 avatar_filename: null
 bio: My research interests include Artificial Intelligence, Computer Vision,
   Multi-modal analysis, OCR, etc.
@@ -36,7 +37,7 @@ organizations:
     url: https://www.tsinghua.edu.cn/
 education:
   courses:
-    - course: Master of Information and Communication Engineering
+    - course: Graduate Student of Information and Communication Engineering
       institution: Huazhong University of Science and Technology
       year: ""
     - course: Bachelor of Science in Physics
