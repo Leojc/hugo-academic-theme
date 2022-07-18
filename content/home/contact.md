@@ -2,7 +2,7 @@
 widget: contact
 widget_id: contact
 weight: 130
-title: Contact
+title: Contact me
 subtitle: null
 active: true
 content:
@@ -13,26 +13,13 @@ content:
     netlify:
       captcha: true
   autolink: false
-  # office_hours:
-  #   - Monday 10:00 to 13:00
-  #   - Wednesday 09:00 to 10:00
-  # phone: 888 888 88 88
-  # appointment_url: https://calendly.com
-  # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  # address:
-  #   street: 450 Serra Mall
-  #   city: Stanford
-  #   region: CA
-  #   postcode: "94305"
-  #   country: United States
-  #   country_code: US
   contact_links:
     - icon: github
       icon_pack: fab
       name: Github
       link: https://github.com/Leojc
   coordinates:
-    latitude: "22.6573" 
+    latitude: "22.6573"
     longitude: "114.0594"
   email: liaojc【at】hust.edu.cn
 headless: false
