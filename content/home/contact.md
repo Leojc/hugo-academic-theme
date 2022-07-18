@@ -19,7 +19,7 @@ content:
       name: Github
       link: https://github.com/Leojc
   address:
-    street: 450 Serra Mall
+    street: Bantian Street
     city: Shenzhen City
     region: Guangdong Province
     postcode: '518129'
