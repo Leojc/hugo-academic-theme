@@ -18,6 +18,13 @@ content:
       icon_pack: fab
       name: Github
       link: https://github.com/Leojc
+  address:
+    street: 450 Serra Mall
+    city: Shenzhen City
+    region: Guangdong Province
+    postcode: '518129'
+    country: China
+    country_code: CN
   coordinates:
     latitude: '22.65728'
     longitude: '114.059445'
