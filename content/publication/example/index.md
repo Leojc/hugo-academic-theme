@@ -21,8 +21,8 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - Hao Wang*
-  - Junchao Liao*
+  - Hao Wang *
+  - Junchao Liao *
   - Tianheng Cheng
   - Zewen Gao
   - Hao Liu
