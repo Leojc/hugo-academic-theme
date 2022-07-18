@@ -22,7 +22,7 @@ publication_types:
   - "1"
 authors:
   - Hao Wang
-  - Junchao Liao*
+  - Junchao Liao
   - Tianheng Cheng
   - Zewen Gao
   - Hao Liu
@@ -32,7 +32,9 @@ authors:
 summary: ""
 url_dataset: ""
 url_project: ""
-author_notes: []
+author_notes:
+  - equal contribution;Huazhong University of Science and Technology
+  - equal contribution;Huazhong University of Science and Technology
 publication_short: CVPR
 url_source: ""
 url_video: ""
