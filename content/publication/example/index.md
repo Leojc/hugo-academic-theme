@@ -28,13 +28,13 @@ authors:
   - Hao Liu
   - Bo Ren
   - Xiang Bai
-  - Wenyu Liu†
+  - Wenyu Liu
 summary: ""
 url_dataset: ""
 url_project: ""
 author_notes:
-  - equal contribution; Huazhong University of Science and Technology
-  - equal contribution; Huazhong University of Science and Technology
+  - Equal Contribution; Huazhong University of Science and Technology
+  - Equal Contribution; Huazhong University of Science and Technology
   - Huazhong University of Science and Technology
   - Huazhong University of Science and Technology
   - Tencent YouTu Lab
