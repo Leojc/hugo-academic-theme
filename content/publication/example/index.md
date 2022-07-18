@@ -28,7 +28,7 @@ authors:
   - Hao Liu
   - Bo Ren
   - Xiang Bai
-  - Wenyu Liu
+  - Wenyu Liu†
 summary: ""
 url_dataset: ""
 url_project: ""
