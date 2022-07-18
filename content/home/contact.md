@@ -21,7 +21,7 @@ content:
   address:
     street: Bantian Street
     city: Shenzhen City
-    region: Guangdong Province
+    region: Guangdong Province,
     postcode: '518129'
     country: China
     country_code: CN
