@@ -12,7 +12,7 @@ content:
       ? id
     netlify:
       captcha: true
-  autolink: true
+  autolink: false
   # office_hours:
   #   - Monday 10:00 to 13:00
   #   - Wednesday 09:00 to 10:00
@@ -31,9 +31,9 @@ content:
       icon_pack: fab
       name: Github
       link: https://github.com/Leojc
-  # coordinates:
-  #   latitude: "37.4275"
-  #   longitude: "-122.1697"
+  coordinates:
+    latitude: "22.65728" 
+    longitude: "114.059445"
   email: liaojc【at】hust.edu.cn
 headless: false
 design:
