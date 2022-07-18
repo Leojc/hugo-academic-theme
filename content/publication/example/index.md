@@ -33,8 +33,14 @@ summary: ""
 url_dataset: ""
 url_project: ""
 author_notes:
-  - equal contribution;Huazhong University of Science and Technology
-  - equal contribution;Huazhong University of Science and Technology
+  - equal contribution\nHuazhong University of Science and Technology
+  - equal contribution\nHuazhong University of Science and Technology
+  - Huazhong University of Science and Technology
+  - Huazhong University of Science and Technology
+  - Tencent YouTu Lab
+  - Tencent YouTu Lab
+  - Huazhong University of Science and Technology
+  - Huazhong University of Science and Technology\nCorresponding author
 publication_short: CVPR
 url_source: ""
 url_video: ""
