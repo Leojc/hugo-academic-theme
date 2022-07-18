@@ -33,7 +33,7 @@ summary: ""
 url_dataset: ""
 url_project: ""
 author_notes:
-  - "*Equal contribution"
+  - "*: Equal contribution"
 publication_short: CVPR
 url_source: ""
 url_video: ""
@@ -49,7 +49,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
