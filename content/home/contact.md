@@ -35,7 +35,7 @@ content:
   #   latitude: "37.4275"
   #   longitude: "-122.1697"
   email: liaojc【at】hust.edu.cn
-headless: true
+headless: false
 design:
   columns: "2"
 ---
