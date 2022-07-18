@@ -13,11 +13,11 @@ content:
     netlify:
       captcha: true
   autolink: false
-  contact_links:
-    - icon: github
-      icon_pack: fab
-      name: Github
-      link: https://github.com/Leojc
+  #contact_links:
+  #  - icon: github
+  #    icon_pack: fab
+  #    name: Github
+  #    link: https://github.com/Leojc
   address:
     street: Bantian Street
     city: Shenzhen City
