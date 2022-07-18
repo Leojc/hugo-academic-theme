@@ -46,6 +46,6 @@ education:
 superuser: true
 highlight_name: true
 title: Junchao Liao
-email: liaojunchao@outlook.com
+email: ""
 ---
 My research interests include Artificial Intelligence, Computer Vision, Multi-modal analysis, OCR, etc.
