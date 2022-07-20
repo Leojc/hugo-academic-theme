@@ -32,7 +32,14 @@ social:
       header: false
     link: https://www.semanticscholar.org/author/Junchao-Liao/2160539638
     icon_pack: ai
-    icon: semanticscholar
+    icon: semantic-scholar
+    label: SemanticScholar
+  - display:
+      header: false
+    link: https://orcid.org/0000-0003-4282-0843
+    icon_pack: ai
+    icon: orcid
+    label: ORCiD
 organizations:
   - name: Huazhong University of Science and Technology
     url: https://hust.edu.cn
