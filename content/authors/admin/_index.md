@@ -1,7 +1,7 @@
 ---
 role: Bachelor of Science in Physics, Graduate Student of Information and
   Communication Engineering
-avatar_filename: avatar.png
+avatar_filename: 20220717142148.png
 bio: My research interests include Artificial Intelligence, Computer Vision,
   Multi-modal analysis, OCR, etc.
 interests:
@@ -28,6 +28,11 @@ social:
     icon_pack: ai
     icon: researchgate
     label: ResearchGate
+  - display:
+      header: false
+    link: https://www.semanticscholar.org/author/Junchao-Liao/2160539638
+    icon_pack: ai
+    icon: semanticscholar
 organizations:
   - name: Huazhong University of Science and Technology
     url: https://hust.edu.cn
