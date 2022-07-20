@@ -9,14 +9,14 @@ en:
   # contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-zh:
- languageCode: zh-Hans
- contentDir: content/zh
- title: 廖俊超主页
- params:
-   description: 廖俊超的主页
- menu:
-   main:
-     - name: 关于
-       url: '#about'
-       weight: 1
+# zh:
+#  languageCode: zh-Hans
+#  contentDir: content/zh
+#  title: 廖俊超主页
+#  params:
+#    description: 廖俊超的主页
+#  menu:
+#    main:
+#      - name: 关于
+#        url: '#about'
+#        weight: 1
