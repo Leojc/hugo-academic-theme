@@ -1,7 +1,7 @@
 ---
 role: Bachelor of Science in Physics, Graduate Student of Information and
   Communication Engineering
-avatar_filename: null
+avatar_filename: avatar.png
 bio: My research interests include Artificial Intelligence, Computer Vision,
   Multi-modal analysis, OCR, etc.
 interests:
