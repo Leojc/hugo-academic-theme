@@ -57,7 +57,7 @@ education:
       year: 2020
 superuser: true
 highlight_name: true
-title: Junchao Liao      (廖俊超)
+title: Junchao Liao       (廖俊超)
 email: ""
 ---
 My research interests include Artificial Intelligence, Computer Vision, Multi-modal analysis, OCR, etc.
