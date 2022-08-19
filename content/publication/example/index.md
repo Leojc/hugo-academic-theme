@@ -61,4 +61,4 @@ url_poster: ""
 url_code: ""
 doi: ""
 ---
-
+Link: <https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Knowledge_Mining_With_Scene_Text_for_Fine-Grained_Recognition_CVPR_2022_paper.html>
