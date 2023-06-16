@@ -42,7 +42,7 @@ organizations:
     url: https://hust.edu.cn
 education:
   courses:
-    - course: Master of Science in Engineering
+    - course: Master of Science in Information and Communications Engineering
       institution: Huazhong University of Science and Technology
       year: 2023
     - course: Bachelor of Science in Physics
