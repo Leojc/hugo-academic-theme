@@ -1,8 +1,7 @@
 ---
 role: Master of Science in Engineering, Bachelor of Science in Physics
 avatar_filename: ""
-bio: My research interests include Artificial Intelligence, Computer Vision,
-  Multi-modal analysis, etc.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computer Vision
@@ -41,10 +40,6 @@ social:
 organizations:
   - name: Huazhong University of Science and Technology
     url: https://hust.edu.cn
-  - name: Huawei Technologies Co., Ltd.
-    url: https://www.huawei.com
-  - name: Tsinghua University
-    url: https://www.tsinghua.edu.cn/
 education:
   courses:
     - course: Master of Science in Engineering
@@ -58,3 +53,4 @@ highlight_name: true
 title: Junchao Liao
 email: ""
 ---
+My research interests include Artificial Intelligence, Computer Vision, Multi-modal analysis, etc.
