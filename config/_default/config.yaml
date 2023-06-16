@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Junchao Liao's HomePage # Website name
+title: Liao Junchao's HomePage # Website name
 baseURL: 'https://liaojc.ml/' # Website URL
 
 ############################
