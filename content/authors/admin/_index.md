@@ -1,12 +1,12 @@
 ---
-role: Master of Science in Engineering, Bachelor of Science in Physics
+role: Master of Science in Information and Communications Engineering, Bachelor
+  of Science in Physics
 avatar_filename: ""
 bio: ""
 interests:
   - Artificial Intelligence
   - Computer Vision
   - Multi-modal analysis
-  - ...
 social:
   - icon: envelope
     icon_pack: fas
@@ -53,4 +53,4 @@ highlight_name: true
 title: Liao Junchao
 email: ""
 ---
-My research interests include Artificial Intelligence, Computer Vision, Multi-modal analysis, etc.
+My research interests include Artificial Intelligence, Computer Vision, Multi-modal analysis.
