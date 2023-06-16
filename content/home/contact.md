@@ -19,15 +19,15 @@ content:
   #    name: Github
   #    link: https://github.com/Leojc
   address:
-    street: Bantian Street
-    city: Shenzhen City
-    region: Guangdong Province,
-    postcode: '518129'
+    # street: 
+    city: Wuhan City
+    region: Hubei Province,
+    postcode: '430000'
     country: China
     country_code: CN
   coordinates:
-    latitude: '22.65728'
-    longitude: '114.059445'
+    # latitude: '20'
+    # longitude: '110'
   email: liaojc【at】hust.edu.cn
 headless: false
 design:
