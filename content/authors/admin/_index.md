@@ -1,14 +1,12 @@
 ---
-role: Bachelor of Science in Physics, Graduate Student of Information and
-  Communication Engineering
+role: Master of Science in Engineering, Bachelor of Science in Physics
 avatar_filename: ""
 bio: My research interests include Artificial Intelligence, Computer Vision,
-  Multi-modal analysis, OCR, etc.
+  Multi-modal analysis, etc.
 interests:
   - Artificial Intelligence
   - Computer Vision
   - Multi-modal analysis
-  - OCR
   - ...
 social:
   - icon: envelope
@@ -49,9 +47,9 @@ organizations:
     url: https://www.tsinghua.edu.cn/
 education:
   courses:
-    - course: Graduate Student of Information and Communication Engineering
+    - course: Master of Science in Engineering
       institution: Huazhong University of Science and Technology
-      year: ""
+      year: 2023
     - course: Bachelor of Science in Physics
       institution: Tsinghua University
       year: 2020
@@ -60,4 +58,3 @@ highlight_name: true
 title: Junchao Liao
 email: ""
 ---
-My research interests include Artificial Intelligence, Computer Vision, Multi-modal analysis, OCR, etc.
