@@ -1,77 +1,56 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+role: Master of Science in Information and Communications Engineering, Bachelor
+  of Science in Physics
+avatar_filename: ""
+bio: ""
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Computer Vision
+  - Multi-modal analysis
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: /#contact
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=-nCLQeQAAAAJ
+    label: Google Scholar
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+    link: https://github.com/leojc
+    label: Github
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Junchao-Liao
+    icon_pack: ai
+    icon: researchgate
+    label: ResearchGate
+  - display:
+      header: false
+    link: https://www.semanticscholar.org/author/Junchao-Liao/2160539638
+    icon_pack: ai
+    icon: semantic-scholar
+    label: SemanticScholar
+  - display:
+      header: false
+    link: https://orcid.org/0000-0003-4282-0843
+    icon_pack: ai
+    icon: orcid
+    label: ORCiD
+organizations:
+  - name: Huazhong University of Science and Technology
+    url: https://hust.edu.cn
+education:
+  courses:
+    - course: Master of Science in Information and Communications Engineering
+      institution: Huazhong University of Science and Technology
+      year: 2023
+    - course: Bachelor of Science in Physics
+      institution: Tsinghua University
+      year: 2020
+superuser: true
 highlight_name: true
+title: Liao Junchao
+email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My research interests include Artificial Intelligence, Computer Vision, Multi-modal analysis.

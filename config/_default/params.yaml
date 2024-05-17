@@ -18,8 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Official Academic Profile of Liao Junchao'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Liao Junchao. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -63,10 +62,11 @@ features:
   syntax_highlighter:
     enable: true
     extra_languages:
+      - python
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:

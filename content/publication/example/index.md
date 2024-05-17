@@ -1,87 +1,64 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: "Recently, the semantics of scene text has been proven to be essential
+  in fine-grained image classification. However, the existing methods mainly
+  exploit the literal meaning of scene text for fine-grained recognition, which
+  might be irrelevant when it is not significantly related to objects/scenes. We
+  propose an end-to-end trainable network that mines implicit contextual
+  knowledge behind scene text image and enhance the semantics and correlation to
+  fine-tune the image representation. Unlike the existing methods, our model
+  integrates three modalities: visual feature extraction, text semantics
+  extraction, and correlating background knowledge to fine-grained image
+  classification. Specifically, we employ KnowBert to retrieve relevant
+  knowledge for semantic representation and combine it with image features for
+  fine-grained classification. Experiments on two benchmark datasets, Con-Text,
+  and Drink Bottle, show that our method outperforms the state-of-the-art by
+  3.72% mAP and 5.39% mAP, respectively. To further validate the effectiveness
+  of the proposed method, we create a new dataset on crowd activity recognition
+  for the evaluation. The source code, new dataset, and pre-trained models of
+  this work will be publicly available."
+slides: ""
+url_pdf: ""
+publication_types:
+  - "1"
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
+  - Hao Wang
+  - Junchao Liao
+  - Tianheng Cheng
+  - Zewen Gao
+  - Hao Liu
+  - Bo Ren
+  - Xiang Bai
+  - Wenyu Liu
+summary: ""
+url_dataset: ""
+url_project: ""
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+  - Equal Contribution; Huazhong University of Science and Technology
+  - Equal Contribution; Huazhong University of Science and Technology
+  - Huazhong University of Science and Technology
+  - Huazhong University of Science and Technology
+  - Tencent YouTu Lab
+  - Tencent YouTu Lab
+  - Huazhong University of Science and Technology
+  - Huazhong University of Science and Technology; Corresponding author
+publication_short: CVPR
+url_source: ""
+url_video: ""
+publication: Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition
+featured: false
+date: 2022-07-14T09:12:29.654Z
+url_slides: ""
+title: Knowledge Mining with Scene Text for Fine-Grained Recognition
 tags: []
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+publishDate: 2017-01-01T00:00:00.000Z
+url_poster: ""
+url_code: ""
+doi: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Link: <https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Knowledge_Mining_With_Scene_Text_for_Fine-Grained_Recognition_CVPR_2022_paper.html>
