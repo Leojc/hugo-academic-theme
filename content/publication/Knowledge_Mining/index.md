@@ -19,7 +19,7 @@ abstract: "Recently, the semantics of scene text has been proven to be essential
 slides: ""
 url_pdf: ""
 publication_types:
-  - "1"
+  - "paper"
 authors:
   - Hao Wang
   - Junchao Liao
