@@ -31,7 +31,7 @@ abstract: Recent advancements in Diffusion Transformer (DiT) have demonstrated
   experiments demonstrate Tora's excellence in achieving high motion fidelity,
   while also meticulously simulating the movement of the physical world.
 draft: false
-featured: true
+featured: false
 image:
   filename: panda_tora.png
   focal_point: Smart
